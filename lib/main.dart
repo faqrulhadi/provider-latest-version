@@ -40,7 +40,7 @@ class LoginPage extends StatelessWidget {
              key: LoginPage._formkey,
              child: Column(
                children: <Widget>[
-                 Text('nama', style: TextStyle(fontSize: 20.0) ,),
+                 Text('kangkaurt', style: TextStyle(fontSize: 20.0) ,),
                  Container(
                    padding: EdgeInsets.all(40),
                    child: TextFormField(
